@@ -14,5 +14,5 @@ res=(res*10)+a;
 n=n/10;
 }
 System.out.println("reverse of a number is "+res);
-}
+   }
 }
